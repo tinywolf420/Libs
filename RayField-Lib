@@ -22,7 +22,7 @@ local RayfieldLibrary = {
 	Flags = {},
 	Theme = {
 		Default = {
-			TextFont = "Fredoka One", -- Default will use the various font faces used across Rayfield
+			TextFont = "FredokaOne", -- Default will use the various font faces used across Rayfield
 			TextColor = Color3.fromRGB(204, 93, 223),
 
 			Background = Color3.fromRGB(0, 0, 0),
